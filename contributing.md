@@ -1,6 +1,6 @@
-Thanks for contributing\
+Thanks for contributing
 
-PLease read the guidelines below\
+PLease read the guidelines below
 
 1 Fork the repository\
 2 Make Changes\
