@@ -16,7 +16,16 @@
       
 ### Content for Footer      
 
-    *WILL BE ADDED SHORTLY*
-    
+      
+      Email: prayuj6@gmail.com
+      Instagram: https://www.instagram.com/_p_r_a_y_u_j_/ 
+      Linkdin: www.linkedin.com/in/prayuj-designs
+      Twitter: https://twitter.com/_p_r_a_y_u_j_
+      Facebook: https://www.facebook.com/people/Prayuj-Designs/100079528384314/
+       
+      Contact Number: 9778259149,
+                      7356367059
 
 
+
+**The Messeges From The Website Should Be Recieved To prayuj6@gmail.com.**
