@@ -10,10 +10,23 @@ h1{
     font-size: 9vw;
     margin-bottom: 0px;
     margin-top: 15%;
+    box-shadow: 0 14px 18px 0 rgba(248, 1, 1, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition:1s;
 }
 
 h2{
+    color: yellow;
     font-family: 'Poppins';
     font-size: 4vw;
     margin-top: 0px;
+    box-shadow: 0 14px 18px 0 rgba(5, 205, 75, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition:1s;
+}
+h2:hover{
+    box-shadow: 0 24px 28px 0 rgba(3, 191, 254, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+h1:hover{
+    box-shadow: 20px -24px 28px 0 rgba(248, 1, 1, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: blanchedalmond;
 }
